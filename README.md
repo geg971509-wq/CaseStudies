@@ -1,6 +1,6 @@
 # Apple Platform Security Case Studies
 
-Vulnerabilites I've found in *OS systems
+Technical write-ups on vulnerabilities I've discovered and security mitigations I've analyzed across iOS and macOS.
 
 | CVE/bug | Summary |
 | --- | --- |
